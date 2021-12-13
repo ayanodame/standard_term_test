@@ -150,6 +150,9 @@ nav p{
   padding:16px 10px 16px 50px;
 }
 
+.SystemResult_delete_button:hover{
+  cursor:pointer;
+}
 nav {
   margin:30px 20px 0px;
 }
